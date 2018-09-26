@@ -1,0 +1,4 @@
+09/26/2018 11:30:01 AM - INFO - Fetching the current status of a monitor group : 86388000009889422
+09/26/2018 11:30:01 AM - DEBUG - Starting new HTTPS connection (1): www.site24x7.com
+09/26/2018 11:30:03 AM - DEBUG - https://www.site24x7.com:443 "GET /api/current_status/group/86388000009889422 HTTP/1.1" 200 None
+09/26/2018 11:30:03 AM - INFO - SAP CP Identity Authentication - EU group status is up 
