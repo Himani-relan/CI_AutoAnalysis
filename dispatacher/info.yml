@@ -1,0 +1,211 @@
+ae1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMY000(MAXDB%3BUSED_BY_DOMAINDB)
+ap1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMB004(MAXDB%3BUSED_BY_HeliumDispatcher)
+ap2:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMM003(MAXDB%3BUSED_BY_HELIUM_DISPATCHER)
+br1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMO003(MAXDB%3BUSED_BY_DISPATCHER)
+ca1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMT003(MAXDB%3BUSED_BY_HELIUM_DISPATCHER)
+ca2:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMZ003(MAXDB%3BUSED_BY_DISPATCHER)
+cn1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMK004(MAXDB%3BUSED_BY_DISPATCHER)
+cn2:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMJ003(MAXDB%3BUSED_BY_DISPATCHER)
+eu1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMF006(MAXDB%3BUSED_FOR_DISPATCHER)
+eu3:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMX003(MAXDB%3BUSED_BY_DISPATCHER)
+jp1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JML004(MAXDB%3BUSED_BY_DISPATCHER)
+jp2:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMU003(MAXDB%3BUSED_BY_DISPATCHER)
+ru1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMR003(MAXDB%3BHELIUM DISPATCHER)
+sa1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMW003(MAXDB%3BUSED_BY_DISPATCHER)
+trial:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMN007(MAXDB%3BUSED_BY_HELIUM_DISPATCHER)
+us1:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMA006(MAXDB%3BUSED_BY_HeliumDispatcher)
+us2:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMH004(MAXDB%3BUSED_BY_HeliumDispatcher)
+us3:
+  Orchestrators:
+    - Orchestrator_1
+    - Orchestrator_2
+    - Orchestrator_3
+  Domaindb:
+    - DomainDB
+    - DomainDB_1
+    - DomainDB_2
+  HeliumDB:
+    - Database_JMS003(MAXDB%3BUSED_BY_HELIUM_DISPATCHER)

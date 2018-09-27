@@ -1,0 +1,35 @@
+TRIAL C HTML5 Application - Design Time [15] is down 
+======================================
+Fetching the Outage Details:
+===============================================
+Fetching the current metrics of dispatcher processes
+All metrics of dispatcher are OK
+===========================================================================
+Current metrics of all the processes are OK, hence thread dump is not generated
+===============================================
+Fetching the current metrics of HeliumDB
+==========================================
+Database_JMN007(MAXDB%3BUSED_BY_HELIUM_DISPATCHER)
+There are no critical metrics in Database_JMN007(MAXDB;USED_BY_HELIUM_DISPATCHER)
+===============================================
+Fetching the current metrics of Domaindb
+==========================================
+DomainDB
+There are no critical metrics in DomainDB
+==========================================
+DomainDB_1
+There are no critical metrics in DomainDB_1
+==========================================
+DomainDB_2
+There are no critical metrics in DomainDB_2
+==============================================================
+Test Design Time scenario : Create/Activate/Start HTML5 application.
+Test application: html5testapp created successfully
+Successfully activated version 1 of Test application : html5testapp
+Successfully started test application : html5testapp
+Design time scenario succeeded
+==============================================================
+Test Runtime scenario : Access the HTML5 application
+Name : html5testapp , Status : STARTED , URL: https://html5testapp-i342592trial.dispatcher.hanatrial.ondemand.com 
+Application URL is accessible
+Runtime scenario succeeded

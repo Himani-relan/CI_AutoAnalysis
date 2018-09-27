@@ -1,0 +1,30 @@
+08/09/2018 04:14:12 PM - INFO - Fetching the current status of HTML5 Application Runtime Group : 86388000005536007 
+08/09/2018 04:14:12 PM - INFO - Fetching the current status of a monitor group : 86388000005536007
+08/09/2018 04:14:12 PM - INFO - Starting new HTTPS connection (1): www.site24x7.com
+08/09/2018 04:14:17 PM - DEBUG - "GET /api/current_status/group/86388000005536007 HTTP/1.1" 200 None
+08/09/2018 04:14:17 PM - INFO - HTML5 Application Runtime Group Status is down
+08/09/2018 04:14:17 PM - INFO - Starting thread : TRIAL C HTML5 Application - Design Time [15] 
+08/09/2018 04:14:17 PM - INFO - Fetching the outage details : 86388000002235318
+08/09/2018 04:14:17 PM - INFO - Starting new HTTPS connection (1): www.site24x7.com
+08/09/2018 04:14:19 PM - DEBUG - "GET /api/reports/outage/86388000002235318?period=5 HTTP/1.1" 200 None
+08/09/2018 04:14:19 PM - INFO - Starting new HTTPS connection (1): api.hanatrial.ondemand.com
+08/09/2018 04:14:20 PM - DEBUG - "GET /monitoring/v1/accounts/services/apps/dispatcher/metrics HTTP/1.1" 200 6094
+08/09/2018 04:14:20 PM - INFO - Starting new HTTPS connection (1): monitoring.int.hanatrial.ondemand.com
+08/09/2018 04:14:21 PM - DEBUG - "GET /monitoring/detailedmetrics/staticservice/Database_JMN007(MAXDB%3BUSED_BY_HELIUM_DISPATCHER) HTTP/1.1" 200 4682
+08/09/2018 04:14:22 PM - INFO - Starting new HTTPS connection (1): monitoring.int.hanatrial.ondemand.com
+08/09/2018 04:14:23 PM - DEBUG - "GET /monitoring/detailedmetrics/staticservice/DomainDB HTTP/1.1" 200 397
+08/09/2018 04:14:23 PM - INFO - Starting new HTTPS connection (1): monitoring.int.hanatrial.ondemand.com
+08/09/2018 04:14:25 PM - DEBUG - "GET /monitoring/detailedmetrics/staticservice/DomainDB_1 HTTP/1.1" 200 None
+08/09/2018 04:14:25 PM - INFO - Starting new HTTPS connection (1): monitoring.int.hanatrial.ondemand.com
+08/09/2018 04:14:26 PM - DEBUG - "GET /monitoring/detailedmetrics/staticservice/DomainDB_2 HTTP/1.1" 200 None
+08/09/2018 04:14:26 PM - INFO - Starting new HTTPS connection (1): dispatcher.hanatrial.ondemand.com
+08/09/2018 04:14:27 PM - DEBUG - "GET /hcproxy/b/api/accounts/i342592trial/applications/ HTTP/1.1" 200 391
+08/09/2018 04:14:28 PM - DEBUG - "POST /hcproxy/b/api/accounts/i342592trial/applications/ HTTP/1.1" 201 0
+08/09/2018 04:14:29 PM - DEBUG - "POST /hcproxy/b/api/accounts/i342592trial/applications/html5testapp/versions/1/action HTTP/1.1" 200 0
+08/09/2018 04:14:30 PM - DEBUG - "POST /hcproxy/b/api/accounts/i342592trial/applications/html5testapp/action HTTP/1.1" 200 0
+08/09/2018 04:14:30 PM - INFO - Starting new HTTPS connection (1): dispatcher.hanatrial.ondemand.com
+08/09/2018 04:14:31 PM - DEBUG - "GET /hcproxy/b/api/accounts/i342592trial/applications/html5testapp HTTP/1.1" 200 433
+08/09/2018 04:14:31 PM - INFO - Starting new HTTPS connection (1): html5testapp-i342592trial.dispatcher.hanatrial.ondemand.com
+08/09/2018 04:14:34 PM - DEBUG - "GET / HTTP/1.1" 200 None
+08/09/2018 04:14:34 PM - INFO - Sending email...
+08/09/2018 04:14:39 PM - INFO - Email sent successfully
